@@ -1,0 +1,3 @@
+/home/suraj/ubuntu_backup/opencv-projects/text/CMakeFiles/edit_cache.dir
+/home/suraj/ubuntu_backup/opencv-projects/text/CMakeFiles/rebuild_cache.dir
+/home/suraj/ubuntu_backup/opencv-projects/text/CMakeFiles/text.dir
